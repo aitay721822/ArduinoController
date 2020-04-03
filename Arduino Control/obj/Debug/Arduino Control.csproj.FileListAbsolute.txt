@@ -1,0 +1,74 @@
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Arduino Control.exe.config
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Arduino Control.exe
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Arduino Control.pdb
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csprojResolveAssemblyReference.cache
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.Properties.Resources.resources
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csproj.GenerateResource.Cache
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csproj.CoreCompileInputs.cache
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino Control.exe
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino Control.pdb
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Line.Messaging.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.AppContext.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Console.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.IO.Compression.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.IO.FileSystem.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Net.Http.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Net.Sockets.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Line.Messaging.xml
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.Settings.resources
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.SlideView.resources
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.ino.resources
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.SerialPortWindows.resources
+C:\Users\aitay\source\repos\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.Monitor.resources
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\Arduino Control.exe.config
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\Arduino Control.exe
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\Arduino Control.pdb
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\Line.Messaging.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.AppContext.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Console.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.IO.Compression.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.IO.FileSystem.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Net.Http.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Net.Sockets.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\Line.Messaging.xml
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csprojResolveAssemblyReference.cache
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.Monitor.resources
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.ino.resources
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.Properties.Resources.resources
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.SerialPortWindows.resources
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.Settings.resources
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino_Control.SlideView.resources
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csproj.GenerateResource.cache
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csproj.CoreCompileInputs.cache
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino Control.csproj.CopyComplete
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino Control.exe
+C:\Users\aitay\Desktop\Arduino Control\Arduino Control\obj\Debug\Arduino Control.pdb
